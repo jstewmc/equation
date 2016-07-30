@@ -22,7 +22,7 @@ use Jstewmc\Fx;
 
 ## Quadratic
 
-A univariate, standard-form quadratic function is <code>y = ax<sup>2</sup> + bx + c<code>, where `a`, `b`, and `c` are _constants_ (aka, the _quadratic coefficient_, the _linear coefficient_, and the _constant_, respectively):
+A univariate, standard-form quadratic function is <code>y = ax<sup>2</sup> + bx + c</code>, where `a`, `b`, and `c` are _constants_ (aka, the _quadratic coefficient_, the _linear coefficient_, and the _constant_, respectively):
 
 ```php
 use Jstewmc\Fx;
@@ -32,7 +32,7 @@ use Jstewmc\Fx;
 
 ## Power
 
-A power function is `y = cx<sup>p</sup>`, where `c` is a _constant_, and `p` is the _power_:
+A power function is <code>y = cx<sup>p</sup></code>, where `c` is a _constant_, and `p` is the _power_:
 
 ```php
 use Jstewmc\Fx;
@@ -42,7 +42,7 @@ use Jstewmc\Fx;
 
 ## Exponential
 
-An exponential function is `y = b<sup>x</sup>`, where `b` is a _constant_:
+An exponential function is <code>y = b<sup>x</sup></code>, where `b` is a _constant_:
 
 ```php
 use Jstewmc\Fx;
