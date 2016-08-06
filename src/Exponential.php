@@ -16,7 +16,7 @@ use InvalidArgumentException;
  *
  * @since  0.1.0
  */
-class Exponential
+class Exponential extends Fx
 {
     /* !Private properties */
     
