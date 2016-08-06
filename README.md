@@ -108,6 +108,10 @@ That's it!
 
 ## Version 
 
+### 0.3.0, August 6, 2016
+
+* Add `Fx` parent class
+
 ### 0.2.0, August 6, 2016
 
 * Update README examples
