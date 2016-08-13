@@ -117,7 +117,12 @@ That's it!
 
 ## Version 
 
-### 0.3.1, August 16, 2016
+### 1.0.0, August 13, 2016
+
+* Major release
+* Update `composer.json`
+
+### 0.3.1, August 13, 2016
 
 * Update `Fx` parent class to be an interface
 
