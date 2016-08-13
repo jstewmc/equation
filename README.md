@@ -1,5 +1,5 @@
 # f(x)
-Constant, equality, linear, (univariate) quadratic, power, and exponential functions:
+Simple math functions.
 
 ```php
 use Jstewmc\Fx;
@@ -12,9 +12,18 @@ use Jstewmc\Fx;
 (new Exponential(1))(2);      // returns 1 (1 ^ 2)
 ```
 
+This library supports the following functions: 
+
+* _constant_, `c = x`
+* _equality_, `y = x`
+* _linear_, `y = mx + b` 
+* _quadratic_, <code>y = ax<sup>2</sup> + bx + c</code>
+* _power_, <code>y = cx<sup>p</sup></code>
+* _exponential_, <code>y = b<sup>x</sup></code>
+
 ## Constant
 
-A constant function:
+A constant function where `c = x`:
 
 ```php
 use Jstewmc\Fx
@@ -107,6 +116,10 @@ That's it!
 [Jack Clayton](mailto:clayjs0@gmail.com)
 
 ## Version 
+
+### 0.3.1, August 16, 2016
+
+* Update `Fx` parent class to be an interface
 
 ### 0.3.0, August 6, 2016
 
