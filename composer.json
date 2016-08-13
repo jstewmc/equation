@@ -2,6 +2,7 @@
 	"name": "jstewmc/fx",
 	"description": "Simple math functions",
 	"keywords": ["php", "jstewmc", "function", "linear", "qaudratic"],
+	"license": "MIT",
 	"authors": [
 		{
 			"name": "Jack Clayton",
