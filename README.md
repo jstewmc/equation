@@ -14,12 +14,12 @@ use Jstewmc\Fx;
 
 This library supports the following functions: 
 
-* _constant_, `c = x`
-* _equality_, `y = x`
-* _linear_, `y = mx + b` 
-* _quadratic_, <code>y = ax<sup>2</sup> + bx + c</code>
-* _power_, <code>y = cx<sup>p</sup></code>
-* _exponential_, <code>y = b<sup>x</sup></code>
+* constant, `c = x`
+* equality, `y = x`
+* linear, `y = mx + b` 
+* quadratic, <code>y = ax<sup>2</sup> + bx + c</code>
+* power, <code>y = cx<sup>p</sup></code>
+* exponential, <code>y = b<sup>x</sup></code>
 
 ## Constant
 
