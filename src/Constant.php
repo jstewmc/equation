@@ -16,7 +16,7 @@ use InvalidArgumentException;
  *
  * @since  0.1.0
  */
-class Constant extends Fx
+class Constant implements Fx
 {
     /* !Private properties */
     

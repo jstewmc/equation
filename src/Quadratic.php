@@ -17,7 +17,7 @@ use InvalidArgumentException;
  *
  * @since  0.1.0
  */
-class Quadratic extends Fx
+class Quadratic implements Fx
 {
     /* !Private properties */
     

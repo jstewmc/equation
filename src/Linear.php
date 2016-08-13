@@ -17,7 +17,7 @@ use InvalidArgumentException;
  *
  * @since  0.1.0
  */
-class Linear extends Fx
+class Linear implements Fx
 {
     /* !Private properties */
     

@@ -16,7 +16,7 @@ use InvalidArgumentException;
  *
  * @since  0.1.0
  */
-class Power extends Fx
+class Power implements Fx
 {
     /* !Private properties */
     

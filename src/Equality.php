@@ -16,7 +16,7 @@ use InvalidArgumentException;
  *
  * @since  0.1.0
  */
-class Equality extends Fx
+class Equality implements Fx
 {
     /* !Magic methods */
      
